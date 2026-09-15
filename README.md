@@ -1,6 +1,6 @@
 # Hi, I'm Hamza Rhannouri 👋
 
-### Finance Data Analyst | SQL • Power BI • DAX • FP&A
+### Finance Data Analyst | SQL • Power BI • DAX • EXCEL • FP&A
 
 I build end-to-end data analytics projects that transform raw data into
 clean analytical models, financial insights, and decision-ready dashboards.
@@ -67,7 +67,7 @@ Bachelor's / Licence level
 
 ## Certifications
 
-Microsoft PL-300 — preparing for the Power BI Data Analyst certification.
+- ** Microsoft PL-300 — preparing for the Power BI Data Analyst certification.
 
 - **HP LIFE — Cash Flow**
 - **HP LIFE — Agile Project Management**
