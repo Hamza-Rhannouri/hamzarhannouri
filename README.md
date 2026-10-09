@@ -1,16 +1,16 @@
 # Hi, I'm Hamza Rhannouri 👋
 
-### Finance Data Analyst | SQL • Power BI • DAX • EXCEL • FP&A
+### Finance Data Analyst | SQL • Power BI • DAX • EXCEL • FP&A • Python
 
-I build end-to-end data analytics projects that transform raw data into
-clean analytical models, financial insights, and decision-ready dashboards.
+I build practical finance analytics projects, transforming raw data into clean datasets, financial insights, and decision-ready dashboards. I'm strengthening my skills through hands-on projects, with a growing focus on Python, Pandas, ETL, and data validation.
 
 ## What I Do
 
-- 🧮 **SQL & Data Transformation** — MySQL, CTEs, window functions, data cleaning
-- 📊 **Business Intelligence** — Power BI, DAX, Power Query, data modeling
+- 🧮 **SQL & Data Transformation** — MySQL, joins, CTEs, window functions and data cleaning
+- 📊 **Business Intelligence** — Power BI, DAX, Power Query, data modeling and report development
 - 💰 **Financial Analytics** — FP&A, Budget vs Actual, variance analysis, profitability, KPIs
 - 🧱 **Data Modeling** — Star schemas, fact/dimension modeling, analytical data structures
+- 🐍 **Developing Data Engineering Skills** — Python, Pandas, repeatable ETL pipelines, and data-quality validation through practical projects
 
 ## Featured Projects
 
@@ -55,8 +55,7 @@ Financial analytics project focused on:
 
 ## Currently Learning
 
-🐍 **Python & Pandas** — building practical skills in data cleaning,
-ETL, validation, and automation.
+🐍 **Python & Pandas** — Developing practical skills in data cleaning, ETL automation, data validation, and reproducible workflows through hands-on projects.
 
 🎯 **Microsoft PL-300** — preparing for the Power BI Data Analyst certification.
 
@@ -81,3 +80,5 @@ Bachelor's / Licence level
 **Finance:** FP&A • Variance Analysis • Forecasting • Profitability Analysis • KPI Analysis
 
 **Data:** Data Cleaning • Data Modeling • ETL • Data Validation
+
+**Developing:** Python • Pandas • ETL Automation
